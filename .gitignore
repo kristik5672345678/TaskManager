@@ -1,0 +1,65 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio temporary files, build results, and user options
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.user
+*.vcxproj.user
+*.dbmdl
+*.opendb
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+packages/
+package-lock.json
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio Code
+.vscode/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Build artifacts
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlh
+*.tli
+*.cache
+*.zip
+*.log
+
+# Azure DevOps
+.aymldemo
+
+# Publish output
+publish/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# Mono Auto Generated Files
+mono_crash.*
